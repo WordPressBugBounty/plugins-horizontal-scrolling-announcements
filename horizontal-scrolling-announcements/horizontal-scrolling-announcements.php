@@ -2,17 +2,17 @@
 /**
  * Plugin Name: Horizontal scrolling announcements
  * Plugin URI: http://www.gopiplus.com/work/2010/07/18/horizontal-scrolling-announcement/
- * Description: This horizontal scrolling announcement wordpress plugin lets scroll the content from one end to another end like reel. This plugin is using JQuery Marquee script for scrolling.
- * Version: 2.5
+ * Description: Horizontal scrolling plugin lets scroll the content from one end to another end like reel. This plugin is using JQuery Marquee script for scrolling
+ * Version: 2.6
  * Author: Gopi Ramasamy
  * Author URI: http://www.gopiplus.com/work/about/
  * Requires at least: 5.0
- * Tested up to: 6.3
+ * Tested up to: 7.0
  * Text Domain: horizontal-scrolling-announcements
  * Domain Path: /languages/
  * License: GPLv3
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
- * Copyright (c) 2023 www.gopiplus.com
+ * Copyright (c) 2026 www.gopiplus.com
  */
 
 if ( preg_match('#' . basename(__FILE__) . '#', $_SERVER['PHP_SELF']) ) {
